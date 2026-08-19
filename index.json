@@ -1,0 +1,22 @@
+{
+  "name": "cs-plugin",
+  "description": "Index of CloudStream providers for jodilife/cs-plugin",
+  "version": "1.0",
+  "repository": "https://github.com/jodilife/cs-plugin",
+  "providers": [
+    {
+      "name": "DokterJAV",
+      "path": "providers/dokterjav_provider.js",
+      "url": "https://raw.githubusercontent.com/jodilife/cs-plugin/main/providers/dokterjav_provider.js",
+      "author": "jodilife",
+      "lang": "js"
+    },
+    {
+      "name": "Example",
+      "path": "providers/example_provider.js",
+      "url": "https://raw.githubusercontent.com/jodilife/cs-plugin/main/providers/example_provider.js",
+      "author": "jodilife",
+      "lang": "js"
+    }
+  ]
+}
