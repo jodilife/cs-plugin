@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+.env
+dist/
+build/
+.vscode/
+.idea/
+*.log
+
+# GitHub Pages deploy branch
+gh-pages/

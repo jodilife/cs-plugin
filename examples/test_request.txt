@@ -1,0 +1,10 @@
+Contoh URL raw yang bisa Anda pakai di CloudStream:
+
+https://raw.githubusercontent.com/jodilife/cs-plugin/main/providers/example_provider.js
+
+Langkah singkat:
+1. Salin URL di atas.
+2. Buka aplikasi CloudStream → Add custom provider / Add source by URL → tempel URL.
+3. Reload provider list.
+
+Jika provider tidak muncul atau error, cek console/log aplikasi (jika tersedia) dan sesuaikan fungsi di `providers/example_provider.js`.
