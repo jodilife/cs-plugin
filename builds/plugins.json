@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DokterJAV",
+    "url": "https://raw.githubusercontent.com/jodilife/cs-plugin/main/providers/dokterjav_provider.js",
+    "version": "1.0",
+    "author": "jodilife",
+    "type": "js"
+  },
+  {
+    "name": "Example",
+    "url": "https://raw.githubusercontent.com/jodilife/cs-plugin/main/providers/example_provider.js",
+    "version": "1.0",
+    "author": "jodilife",
+    "type": "js"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "name": "cs-plugin Repo",
+  "description": "CloudStream provider repository for jodilife/cs-plugin",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/jodilife/cs-plugin/main/builds/plugins.json"
+  ]
+}
